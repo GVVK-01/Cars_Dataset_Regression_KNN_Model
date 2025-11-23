@@ -1,0 +1,11 @@
+Problem Statement for the Project
+
+The automotive industry continuously aims to improve fuel efficiency to meet environmental standards and consumer expectations. Fuel efficiency, measured in Miles per Gallon (mpg), is influenced by various vehicle characteristics such as engine size, horsepower, weight, number of cylinders, and transmission type. However, understanding which factors significantly impact fuel efficiency and predicting mpg accurately remains a critical challenge for manufacturers and analysts.
+This project aims to build a regression-based Machine Learning model that predicts the miles per gallon (mpg) of a car using key vehicle specifications from the mtcars dataset. The goal is to explore the data, perform preprocessing, conduct Exploratory Data Analysis (EDA), and apply the CRISP-ML methodology to develop a reliable predictive model.
+
+The insights obtained will help in:
+Identifying the most important features affecting fuel efficiency
+Understanding relationships between engine performance and mileage
+Building a model that can estimate fuel efficiency for new vehicles
+
+Ultimately, this project will serve as a complete ML lifecycle demonstration—from data understanding to modeling and evaluation—following industry best practices.
